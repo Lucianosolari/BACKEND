@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUbHcBKT26hqfgHEc5e8dG7M7jqvXHDqHWwS/BQgEhTRmPCVS34uxjf1BafkO7DYPrnEu+skCQlkF29YoAA2ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luciano\\Desktop\\LUCHO25\\Bolsa\\Bolsa\\Bolsa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
